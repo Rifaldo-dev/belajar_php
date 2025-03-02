@@ -1,9 +1,12 @@
 # PHP Dasar
 
 > Ini merupakan repository belajar php dasar.
+# DAFTAR ISI
+1. [PENGENALAN PHP](/README.md)
+2. [SINTAK DASAR PHP](/sintak_dasar)
 
 # Apa itu PHP
-![php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)
+![php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/500px-PHP-logo.svg.png)
 
 PHP adalah Hypertext Preprocessor yang dimana sebelumnya dikenal sebagai Personal Home Pages, PHP pertama kali dikembangkan oleh Rasmus Lerdorf pada tahun 1994. PHP merupakan bahasa scripting yang berjalan di server-side, yang dapat disisipkan ke dalam HTML. PHP banyak digunakan untuk mengembangkan website yang dinamis, seperti forum, blog, dan e-commerce.
 
@@ -55,10 +58,6 @@ tetapi jika membutuhkan php-mysql atau php xml, bisa mengunakan perintah berikut
 ```bash
 sudo apt install php-mysql php-xml
 ```
-
-# DAFTAR ISI
-1. [SINTAK DASAR PHP](/sintak_dasar)
-2.
 
 
 

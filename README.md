@@ -47,9 +47,21 @@ php tidak akan mengirimkan hasil yang sama, tetapi php akan memberikan kode
 ---
 
 
-# Intalasi PHP
+# Instalasi PHP
 ## Untuk menginstall php ada beberapa cara:
 1. untuk di windows kita dapat menggunakan software seperti xampp, laragon, apache HTTP web server dan masih banyak lainnya.
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP">
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="50" alt="Laragon">
+  <img src="https://cdn.simpleicons.org/apache/CA312D" height="50" alt="Apache">
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="NGINX">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="Docker">
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="50" alt="Kubernetes">
+  <img src="https://cdn.simpleicons.org/caddy/2F9134" height="50" alt="Caddy">
+</p>
+
+
 2. sedangkan di linux seperti ubuntu, debian, dan lain sebagainya itu menggunakan perintah yang diakses di terminal nya.
 ``` bash
 sudo apt install php
@@ -58,8 +70,35 @@ tetapi jika membutuhkan php-mysql atau php xml, bisa mengunakan perintah berikut
 ```bash
 sudo apt install php-mysql php-xml
 ```
+<p align="center">
 
+<img src="https://cdn.simpleicons.org/debian/debian" height="50" alt="debian">
+<img src="https://cdn.simpleicons.org/ubuntu/ubuntu" height="50" alt="ubuntu">
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="linux">
+</p>
 
+# Editor PHP
+Berikut software yang dapat digunakan untuk malakukan editasi kode php.
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="VS Code">
+  <img src="https://cdn.simpleicons.org/vim/019733" height="50" alt="Vim">
+  <img src="https://cdn.simpleicons.org/gnu/545454" height="50" alt="GNU Nano">
+  <img src="https://cdn.simpleicons.org/sublimetext/FF9800" height="50" alt="Sublime Text">
+  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="50" alt="PHPStorm">
+  <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="50" alt="Notepad++">
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="50" alt="JetBrains">
+</p>
+
+<hr>
+<br>
+
+<p align="center">
+  <a href="/" style="text-decoration:none; padding:10px 15px; background:#007BFF; color:white; border-radius:5px;">&laquo; Prev</a>
+  <span style="margin:0 10px; font-weight:bold;">1</span>
+  <a href="/sintak_dasar/" style="text-decoration:none; padding:10px 15px; background:#007BFF; color:white; border-radius:5px;">Next &raquo;</a>
+</p>
+<hr>
 
 
 

@@ -4,6 +4,7 @@
 # DAFTAR ISI
 1. [PENGENALAN PHP](/README.md)
 2. [SINTAK DASAR PHP](/sintak_dasar)
+3. [OPERATOR PHP](/operator/)
 
 # Apa itu PHP
 ![php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/500px-PHP-logo.svg.png)
@@ -91,16 +92,3 @@ Berikut software yang dapat digunakan untuk malakukan editasi kode php.
 </p>
 
 <hr>
-<br>
-
-<p align="center">
-  <a href="/" style="text-decoration:none; padding:10px 15px; background:#007BFF; color:white; border-radius:5px;">&laquo; Prev</a>
-  <span style="margin:0 10px; font-weight:bold;">1</span>
-  <a href="/sintak_dasar/" style="text-decoration:none; padding:10px 15px; background:#007BFF; color:white; border-radius:5px;">Next &raquo;</a>
-</p>
-<hr>
-
-
-
-
-

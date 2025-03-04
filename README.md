@@ -5,6 +5,7 @@
 1. [PENGENALAN PHP](/README.md)
 2. [SINTAK DASAR PHP](/sintak_dasar)
 3. [OPERATOR PHP](/operator/)
+4. [CONTROL FLOW](/Control_Flow/)
 
 # Apa itu PHP
 ![php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/500px-PHP-logo.svg.png)

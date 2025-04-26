@@ -1,362 +1,366 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="DH-ULwu1kXM5_TBu5Ma4">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="If Statement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="91" y="8" width="150" height="54" as="geometry" />
+        <mxCell id="2" value="If Statement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="150" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="135" width="95" height="54" as="geometry" />
+        <mxCell id="3" value="Start" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="310" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="239" width="111" height="54" as="geometry" />
+        <mxCell id="4" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="410" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Jalankan Blok A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="365" width="172" height="54" as="geometry" />
+        <mxCell id="5" value="Jalankan Blok A" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="545" width="172" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="122" y="492" width="86" height="54" as="geometry" />
+        <mxCell id="6" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="302" y="672" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="If-Else Statement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="8" width="184" height="54" as="geometry" />
+        <mxCell id="7" value="If-Else Statement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="188" width="184" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="135" width="95" height="54" as="geometry" />
+        <mxCell id="8" value="Start" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="595" y="315" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407" y="239" width="111" height="54" as="geometry" />
+        <mxCell id="9" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="587" y="419" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Jalankan Blok A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="365" width="172" height="54" as="geometry" />
+        <mxCell id="10" value="Jalankan Blok A" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="474" y="545" width="172" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="419" y="492" width="86" height="54" as="geometry" />
+        <mxCell id="11" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="599" y="672" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Jalankan Blok B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="516" y="365" width="172" height="54" as="geometry" />
+        <mxCell id="12" value="Jalankan Blok B" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="696" y="545" width="172" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="While Loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="828" y="8" width="139" height="54" as="geometry" />
+        <mxCell id="13" value="While Loop" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1008" y="188" width="139" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="851" y="135" width="95" height="54" as="geometry" />
+        <mxCell id="14" value="Start" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1031" y="315" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="843" y="239" width="111" height="54" as="geometry" />
+        <mxCell id="15" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1023" y="419" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="757" y="365" width="161" height="54" as="geometry" />
+        <mxCell id="16" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="937" y="545" width="161" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="968" y="365" width="86" height="54" as="geometry" />
+        <mxCell id="17" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1148" y="545" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="Do-While Loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="8" width="164" height="54" as="geometry" />
+        <mxCell id="18" value="Do-While Loop" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1258" y="188" width="164" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1112" y="135" width="95" height="54" as="geometry" />
+        <mxCell id="19" value="Start" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1292" y="315" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="239" width="161" height="54" as="geometry" />
+        <mxCell id="20" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1259" y="419" width="161" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="365" width="111" height="54" as="geometry" />
+        <mxCell id="21" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1285" y="545" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="492" width="86" height="54" as="geometry" />
+        <mxCell id="22" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1297" y="672" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="For Loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1783" y="8" width="122" height="54" as="geometry" />
+        <mxCell id="23" value="For Loop" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1963" y="188" width="122" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1796" y="135" width="95" height="54" as="geometry" />
+        <mxCell id="24" value="Start" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1976" y="315" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="Inisialisasi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1778" y="239" width="132" height="54" as="geometry" />
+        <mxCell id="25" value="Inisialisasi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1958" y="419" width="132" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="26" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1789" y="365" width="111" height="54" as="geometry" />
+        <mxCell id="26" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1969" y="545" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="27" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1463" y="492" width="161" height="54" as="geometry" />
+        <mxCell id="27" value="Ekseskusi Blok" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1643" y="672" width="161" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="Increment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1756" y="596" width="133" height="54" as="geometry" />
+        <mxCell id="28" value="Increment" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1936" y="776" width="133" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="29" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="492" width="86" height="54" as="geometry" />
+        <mxCell id="29" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2007" y="672" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="30" value="Continue Statement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="8" width="203" height="54" as="geometry" />
+        <mxCell id="30" value="Continue Statement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1591" y="188" width="203" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="Proses" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="135" width="105" height="54" as="geometry" />
+        <mxCell id="31" value="Proses" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="315" width="105" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="32" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="239" width="111" height="54" as="geometry" />
+        <mxCell id="32" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1637" y="419" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="33" value="Increment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="365" width="133" height="54" as="geometry" />
+        <mxCell id="33" value="Increment" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1476" y="545" width="133" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="34" value="Ekseskusi bagian berikutnya" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="365" width="260" height="54" as="geometry" />
+        <mxCell id="34" value="Ekseskusi bagian berikutnya" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1659" y="545" width="260" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="35" value="Break Statement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2178" y="8" width="180" height="54" as="geometry" />
+        <mxCell id="35" value="Break Statement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2358" y="188" width="180" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="36" value="Proses" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2215" y="135" width="105" height="54" as="geometry" />
+        <mxCell id="36" value="Proses" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2395" y="315" width="105" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="37" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="239" width="111" height="54" as="geometry" />
+        <mxCell id="37" value="Kondisi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2392" y="419" width="111" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="38" value="Lompat keluar dari loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1976" y="365" width="232" height="54" as="geometry" />
+        <mxCell id="38" value="Lompat keluar dari loop" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2156" y="545" width="232" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="39" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2049" y="492" width="86" height="54" as="geometry" />
+        <mxCell id="39" value="End" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2229" y="672" width="86" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="40" value="Ekseskusi bagian berikutnya" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2258" y="365" width="260" height="54" as="geometry" />
+        <mxCell id="40" value="Ekseskusi bagian berikutnya" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2438" y="545" width="260" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="Goto Statement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2407" y="8" width="174" height="54" as="geometry" />
+        <mxCell id="41" value="Goto Statement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2592" y="188" width="174" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="42" value="Label Tertentu" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2412" y="135" width="165" height="54" as="geometry" />
+        <mxCell id="42" value="Label Tertentu" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="2596.5" y="315" width="165" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="43" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="4" target="5">
+        <mxCell id="46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.15;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="5" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="94" y="329" />
+              <mxPoint x="274" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.15;entryY=0;" edge="1" parent="1" source="5" target="6">
+        <mxCell id="47" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.86;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="4" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="94" y="456" />
+              <mxPoint x="417" y="509" />
+              <mxPoint x="417" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.86;entryY=0;" edge="1" parent="1" source="4" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="237" y="329" />
-              <mxPoint x="237" y="456" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="48" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="7" target="8">
+        <mxCell id="48" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="8" target="9">
+        <mxCell id="49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="9" target="10">
+        <mxCell id="50" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="329" />
+              <mxPoint x="560" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.1;entryY=0;" edge="1" parent="1" source="10" target="11">
+        <mxCell id="51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.1;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="10" target="11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="456" />
+              <mxPoint x="560" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.96;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="9" target="12">
+        <mxCell id="52" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.96;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="9" target="12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="602" y="329" />
+              <mxPoint x="782" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.14;" edge="1" parent="1" source="12" target="11">
+        <mxCell id="53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.14;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="12" target="11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="602" y="456" />
+              <mxPoint x="782" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="13" target="14">
+        <mxCell id="54" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="13" target="14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="14" target="15">
+        <mxCell id="55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="14" target="15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="56" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.37;entryY=0.01;" edge="1" parent="1" source="15" target="16">
+        <mxCell id="56" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.37;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="15" target="16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="329" />
+              <mxPoint x="970" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.99;entryY=0.92;" edge="1" parent="1" source="16" target="15">
+        <mxCell id="57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.99;entryY=0.92;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="16" target="15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1049" y="329" />
+              <mxPoint x="1229" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="58" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.27;entryY=0.01;" edge="1" parent="1" source="15" target="17">
+        <mxCell id="58" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.27;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="15" target="17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="964" y="329" />
+              <mxPoint x="1144" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="18" target="19">
+        <mxCell id="59" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="18" target="19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="19" target="20">
+        <mxCell id="60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="19" target="20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.15;entryY=0.01;" edge="1" parent="1" source="20" target="21">
+        <mxCell id="61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.15;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="20" target="21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1069" y="329" />
+              <mxPoint x="1249" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="62" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.01;entryX=0.73;entryY=0.99;" edge="1" parent="1" source="21" target="20">
+        <mxCell id="62" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.01;entryX=0.73;entryY=0.99;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="21" target="20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1246" y="329" />
+              <mxPoint x="1426" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="63" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;" edge="1" parent="1" source="21" target="22">
+        <mxCell id="63" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="21" target="22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="64" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=-0.01;" edge="1" parent="1" source="23" target="24">
+        <mxCell id="64" value="Start" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="23" target="24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="24" target="25">
+        <mxCell id="65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="24" target="25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="25" target="26">
+        <mxCell id="66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="25" target="26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;" edge="1" parent="1" source="26" target="27">
+        <mxCell id="67" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="26" target="27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1544" y="456" />
+              <mxPoint x="1724" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;" edge="1" parent="1" source="27" target="28">
+        <mxCell id="68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="27" target="28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1544" y="571" />
+              <mxPoint x="1724" y="751" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.1;entryX=0.99;entryY=0.98;" edge="1" parent="1" source="28" target="26">
+        <mxCell id="69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.1;entryX=0.99;entryY=0.98;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="28" target="26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1981" y="571" />
-              <mxPoint x="1981" y="456" />
+              <mxPoint x="2161" y="751" />
+              <mxPoint x="2161" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="70" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1.01;entryX=0.51;entryY=0;" edge="1" parent="1" source="26" target="29">
+        <mxCell id="70" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1.01;entryX=0.51;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="26" target="29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1871" y="456" />
+              <mxPoint x="2051" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="71" value="Dalam loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="30" target="31">
+        <mxCell id="71" value="Dalam loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="30" target="31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="31" target="32">
+        <mxCell id="72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="31" target="32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="32" target="33">
+        <mxCell id="73" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="32" target="33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1363" y="329" />
+              <mxPoint x="1543" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="74" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="32" target="34">
+        <mxCell id="74" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="32" target="34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1609" y="329" />
+              <mxPoint x="1789" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="75" value="Dalam loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="35" target="36">
+        <mxCell id="75" value="Dalam loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="35" target="36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="36" target="37">
+        <mxCell id="76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="36" target="37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="37" target="38">
+        <mxCell id="77" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="37" target="38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2092" y="329" />
+              <mxPoint x="2272" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;" edge="1" parent="1" source="38" target="39">
+        <mxCell id="78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="38" target="39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="37" target="40">
+        <mxCell id="79" value="FALSE" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0.99;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="37" target="40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2387" y="329" />
+              <mxPoint x="2567" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="80" value="Goto" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="41" target="42">
+        <mxCell id="80" value="Goto" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="41" target="42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHXoXXggV9l2xfsUw985-80" value="Control Flow PHP - Kefekoding" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="184" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="TRUE" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.5;entryY=0.01;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry x="0.2899" y="-13" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="509" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
